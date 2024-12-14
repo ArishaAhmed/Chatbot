@@ -8,3 +8,4 @@ sentence-transformers
 nltk
 python-dotenv
 faiss-cpu
+replicate
