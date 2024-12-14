@@ -9,3 +9,5 @@ nltk
 python-dotenv
 faiss-cpu
 replicate
+ollama
+phi
