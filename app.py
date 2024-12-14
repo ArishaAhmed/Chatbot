@@ -14,6 +14,7 @@ from dotenv import load_dotenv
 from langchain_community.embeddings import HuggingFaceEmbeddings
 import nltk
 from urllib.parse import urljoin, urlparse
+import replicate
 
 # Load environment variables (if needed for API keys)
 load_dotenv()
